@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Dope"
+    }
+  },
+  "defaultProject": "Dope",
+  "cli": {
+    "analytics": "6c867193-57e0-49de-a377-30b12cb3e49f"
+  }
 }
