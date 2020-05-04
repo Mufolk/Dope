@@ -1,8 +1,7 @@
-.title {
-    margin-left: 42%;
-    font-size: 1.5em;
+.title{
+    padding-left: 25%;
 }
 
-div > h1 {
-    margin-left: 6%;
+.title > h1 {
+    margin-left: 12%;
 }
